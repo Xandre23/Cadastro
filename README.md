@@ -1,2 +1,2 @@
 # Cadastro
-Crud Simples, para cadastro de funcionarios (Treino)
+Crud Simples, para cadastro de funcionarios
